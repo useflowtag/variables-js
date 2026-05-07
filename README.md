@@ -83,7 +83,7 @@ Thanks for your interest in contributing to Flowtag! 💛
 By contributing, you agree that your contributions will be licensed under the project's license.
 
 ## License
-[useflowtag/variables](https://github.com/useflowtag/variables) is licensed under [Apache-2.0 License](https://github.com/useflowtag/variables/blob/main/LICENSE)
+[useflowtag/variables-js](https://github.com/useflowtag/variables-js) is licensed under [Apache-2.0 License](https://github.com/useflowtag/variables-js/blob/main/LICENSE)
 
 ---
 © 2026 Flowtag. All rights reserved.
