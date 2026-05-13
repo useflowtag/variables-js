@@ -1,3 +1,4 @@
+<p align="center"><img src="logo.svg" alt="Flowtag logo" width="150" /></p>
 <h1 align="center">Flowtag Variables</h1>
 <p align="center">Runtime agnostic client for Flowtag variables</p>
 
