@@ -1,8 +1,8 @@
 import z from "zod";
 
 export const ErrorSchema = z.object({
-  message: z.string(),
-  errors: z.array(z.any()).optional(),
+	message: z.string(),
+	errors: z.array(z.any()).optional(),
 });
 
 export const ValueSchema = z.object({
@@ -13,4 +13,3 @@ export const ValueSchema = z.object({
 	updatedAt: z.number(),
 	value: z.union([z.looseObject({}), z.boolean()]).optional(),
 });
-

@@ -11,9 +11,9 @@
   "homepage": "https://docs.flowtag.dev/sdk/js/variables",
   "scripts": {
     "build": "tsdown src/index.ts --format esm,cjs --dts --out-dir dist --clean",
-    "lint": "biome check src/*",
+    "lint": "biome check",
     "lint:pub": "publint",
-    "fmt": "biome format src/*",
+    "fmt": "biome check --write",
     "lint:ci": "biome ci",
     "typecheck": "tsc --noEmit"
   },
